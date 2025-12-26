@@ -1,7 +1,6 @@
 # 💫 About Me:
-I’m currently a first-semester Artificial Intelligence student at PAF-IAST (Pak-Austria Fachhochschule) in Mang, Haripur, Pakistan.<br>I have a strong passion for Blockchain ✨, programming 💻, and Devops ⚛️ (I prefer conceptual understanding over lengthy derivations).<br><br>I am actively learning and working on projects in machine learning 🤖, MLOps ⚙️, Kubernete ☸️,Blockchain Development✨
+I’m currently a first-semester Artificial Intelligence student at PAF-IAST (Pak-Austria Fachhochschule) in Mang, Haripur, Pakistan.<br>I have a strong passion for Blockchain ✨, programming 💻, and Devops ⚛️ (I like joining things and making newones).<br><br>I am actively learning and working on projects in machine learning 🤖, MLOps ⚙️, Kubernetes ☸️, Blockchain Development✨
 convolutional neural networks (CNNs) 🧠, modeltraining 🏋️‍♂️, and API development 🔗. I love tackling challenging problems and continuously expanding my technical skills 🚀.
-
 
 ## 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-aqdas-munir-729196312?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aqis20539@gmail.com) 
 
