@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently a 2-year AI student at PAF-IAST (Pak-Austria Fachhochschule) in Mang, Haripur, Pakistan.<br>I have a strong passion for Blockchain ✨, programming 💻, and Devops ⚛️ (I like joining things and making newones).<br><br>I am actively learning and working on projects in machine learning 🤖, MLOps ⚙️, Kubernetes ☸️, Blockchain Development✨ convolutional neural networks (CNNs) 🧠, modeltraining 🏋️‍♂️, MCP and API development 🔗. I love tackling challenging problems and continuously expanding my technical skills 🚀.
+I’m currently a 2-year AI student at PAF-IAST (Pak-Austria Fachhochschule) in Mang, Haripur, Pakistan.<br>I have a strong passion for Blockchain ✨, programming 💻, and Devops ⚛️ (I like joining things and making newones).<br><br>I am actively learning and working on projects in machine learning and AI/LLMS (RAG)🤖, MLOps ⚙️, Kubernetes ☸️, Blockchain Development✨ convolutional neural networks (CNNs) 🧠, modeltraining 🏋️‍♂️, MCP and API development 🔗. I love tackling challenging problems and continuously expanding my technical skills 🚀.
 
 
 ## 🌐 Socials:
