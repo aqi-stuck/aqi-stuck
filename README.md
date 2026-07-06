@@ -1,7 +1,7 @@
 # 💫 About Me:
 I’m currently a 2-year AI student at PAF-IAST (Pak-Austria Fachhochschule) in Mang, Haripur, Pakistan.<br>I have a strong passion for Blockchain ✨, programming 💻, and Devops ⚛️ (I like joining things and making newones).<br><br>I am actively learning and working on projects in machine learning and AI/LLMS (RAG)🤖, MLOps ⚙️, Kubernetes ☸️, Blockchain Development✨ convolutional neural networks (CNNs) 🧠, modeltraining 🏋️‍♂️, MCP and API development 🔗. I love tackling challenging problems and continuously expanding my technical skills 🚀.
 
-https://komarev.com/ghpvc/?username=aqi-stuck
+![](https://komarev.com/ghpvc/?username=aqi-stuck)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-aqdas-munir-729196312/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aqis20539@gmail.com) 
 
