@@ -22,4 +22,4 @@ I’m currently a 3-year AI student. <br>I have a strong passion for Blockchain 
 ![](https://github-contributor-stats.vercel.app/api?username=aqi-stuck&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![Profile Views](https://komarev.com/ghpvc/?username=aqi-stuck&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com)
