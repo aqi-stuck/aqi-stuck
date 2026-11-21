@@ -22,4 +22,4 @@ I’m currently a 3-year AI student. <br>I have a strong passion for Blockchain 
 ![](https://github-contributor-stats.vercel.app/api?username=aqi-stuck&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-![Profile Views](https://workers.dev)
+[![Hits](https://hits.sh)](https://hits.sh)
